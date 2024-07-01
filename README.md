@@ -1,0 +1,2 @@
+# Djangotrain
+for Django training
